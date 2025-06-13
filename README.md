@@ -1,7 +1,10 @@
 # Flood Exposure in Sub-Saharan African Cities
 
-Repository of scripts (Jupyter notebooks) and respective data used in the article "Exposed yet unmapped? Evidence of differential flood exposure in deprived urban areas using citizen science". 
-Here we provide the series of codes with the following purposes:
+Data Repository and Code Repository with data and scripts used and generated in the article "Exposed yet unmapped? Evidence of differential flood exposure in deprived urban areas using citizen science". 
+
+All input and output data are provided and properly described in the medatata files (.txt). 
+
+We also provide a code pipeline with the following purposes:
 
 #### 1_Grid_Creation.ipynb 
 to create of 50x50m (changeable) grid for spatial analysis
