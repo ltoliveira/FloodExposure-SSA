@@ -37,7 +37,7 @@ Open the Jupyter Notebook and run the notebook step by step.
 #### 2_GIS_GridProcessing.ipynb: 
 
 - Intermediate Output Name: 'resampled_raster_proj.tif' + 'GHSL_proj.tif' + 'GOB_grid.gpkg'
-- Output Name: 'CityInitial_grid_final.shp'
+- Output Name: 'CityInitial_grid_final.shp' and 'merged_data.csv' (all cities combined)
 - Output Description: 50x50m grid for each area filled with values from modelled flood hazard output and two built-up layers (GOB and GHSL) for each city
 
 #### 3_ProcessingExposure.ipynb: clean up data with all cities and relative and absolute flood exposure table for each built-up layer
